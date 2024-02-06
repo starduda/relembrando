@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    font-family: 'Cinzel Decorative', cursive;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(108, 141, 114);
+}
+
+header {
+    background-color: rgb(71, 97, 72);
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(71, 97, 72);
+
+}
+
+.imagemlogo {
+    width: 80%;
+    padding-left: 10%;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(45, 66, 52);
+}
+
+p {
+    text-align: center;
+}
